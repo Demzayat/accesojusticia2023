@@ -93,6 +93,8 @@ a.  Migrantes Expulsiones. Caso Vanessa Gomez
 -   Oteiza y Zayat, A treinta años de la CDN, [aca](https://drive.google.com/file/d/1rZbIfh3834THG1K07moFq1Cgp_zmYtsk/view?usp=sharing)
 
 
+[DIAPOSITIVAS ACA](https://ajlcclase5.netlify.app/)
+
 ### `r advdate(viernes, 4)`. No hay clases.
 
 ### `r advdate(martes, 5)`. Unidad 3. La práctica
