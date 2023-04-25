@@ -127,7 +127,9 @@ c. Niñeces
 d.  LGBT Trans
 
 -   Informe sombra CEDAW 2016, [aca](https://drive.google.com/file/d/1Zv0TtTTzgt5N4vSBEo3F7UjiayBQ2BIx/view?usp=sharing)
+
 -   Violencia institucional contra personas trans, [ponencia](https://drive.google.com/file/d/1NWDuVTHVpSSWbHTuvP6WPAy6waXvDyXo/view)
+
 - Caso de Luz Aime, [aca](http://cosecharoja.org/absolvieron-a-luz-aime/)
 
 Les dejo también el decreto del [cupo laboral trans](http://servicios.infoleg.gob.ar/infolegInternet/anexos/340000-344999/341808/norma.htm) y la 
@@ -145,13 +147,23 @@ e.  Mujeres
 
 - Recusación Luz Aime [aca](https://drive.google.com/file/d/1ZWe1xva3x_Y0ttVg2CZ4eliKBj-8bbBy/preview)
 
+- Alegato de cierre Ministerio Público Fiscal [Luz Aime](https://youtu.be/ZKH82JYVLgc)
+
+<iframe width="560" height="315" src="https://www.youtube.com/embed/ZKH82JYVLgc" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" allowfullscreen></iframe>
+
 ### `r advdate(viernes, 7)`. Unidad 3. La práctica
 
 e. Mujeres (cont)
 
--   Inecip, casos de violencia de género, [aca](https://inecip.org/publicaciones/herramientas-jurisprudenciales-para-el-litigio-con-perspectiva-de-genero/)
+-   Inecip, casos de violencia de género, [aca](https://inecip.org/publicaciones/herramientas-jurisprudenciales-para-el-litigio-con-perspectiva-de-genero/). Leer la introducción y las fichas 1, 3, 5 y 6.
 
 -   CEDAW, Observación General 33, disponible [acá](https://drive.google.com/file/d/1j3suY4Q3JhS5EzbAvs6_K6XSbQsOQ7D7/view?usp=sharing)
+
+Dejo por aca el video de [Rita Segato](https://youtu.be/prUqWHKnUd4)
+
+<iframe width="560" height="315" src="https://www.youtube.com/embed/prUqWHKnUd4" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" allowfullscreen></iframe>
+
+
 
 ### `r advdate(martes, 8)`. Unidad 3. La práctica
 
